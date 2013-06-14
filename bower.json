@@ -1,0 +1,12 @@
+{
+    "name": "jQuery-File-Upload",
+    "version": "8.3.2",
+    "main": [
+        "css/jquery.fileupload-ui.css",
+        "js/vendor/jquery.ui.widget.js",
+        "js/jquery.iframe-transport.js",
+        "js/jquery.fileupload.js",
+        "js/jquery.fileupload-fp.js",
+        "js/jquery.fileupload-ui.js"
+    ]
+}
