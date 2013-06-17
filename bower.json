@@ -8,5 +8,8 @@
         "js/jquery.fileupload.js",
         "js/jquery.fileupload-fp.js",
         "js/jquery.fileupload-ui.js"
-    ]
+    ],
+    "dependencies": {
+        "jquery-ui": "~1.10.3"
+    }
 }
